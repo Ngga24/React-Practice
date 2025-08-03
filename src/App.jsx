@@ -1,10 +1,9 @@
-import CounterApp from "./Latihan-Counter-App/CounterApp";
-import KartuProfil from "./Latihan-Kartu-Profil/KartuProfil";
+import TodoList from "./Latihan-TodoList/TodoList";
 
 function App() {
   return (
     <div>
-      <CounterApp />
+      <TodoList />
     </div>
   );
 }
