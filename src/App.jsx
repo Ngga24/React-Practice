@@ -1,9 +1,9 @@
-import TodoList from "./Latihan-TodoList/TodoList";
+import Stopwatch from "./Latihan-Stopwatch/Stopwatch";
 
 function App() {
   return (
     <div>
-      <TodoList />
+      <Stopwatch />
     </div>
   );
 }
